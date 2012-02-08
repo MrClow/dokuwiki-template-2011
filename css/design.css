@@ -181,7 +181,7 @@
 
 #dokuwiki__aside {
 }
-#dokuwiki__aside .pad {
+#dokuwiki__aside > .pad {
     font-size: 0.875em;
     overflow: hidden;
     word-wrap: break-word;
